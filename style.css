@@ -1,0 +1,72 @@
+#Mars the god of War {
+    margin: 0px 30px;
+    background-color:red;
+    color:black;
+}
+
+.navBL{
+  float: right;
+}
+
+.container-fluid{
+    background-color:;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+
+    background-color: black;
+}
+
+#summary{
+    background-color: red;
+    
+
+}
+
+#comparison{
+    border-radius: 15px 50px;
+    margin: 30px;
+    background-color:black;
+}
+
+#summaryimg{
+    width:40%;
+    height:40%;
+    margin: 20px;
+    float:left;
+}
+
+#images{
+    border-radius: 25px;
+
+    width: 100%;
+
+    /* Box-model */
+    padding: 30px 30px 43px;
+  
+    /* Positioning */
+    margin-top: 32px;
+  
+    /* Visual */
+    background-color:black;
+}
+
+.summary-content{
+    border-radius: 15px 50px;
+
+    padding: 30px;
+    margin-top: 32px;
+    background-color:red;
+}
+
+.comparisonImg{
+    width: 140px;
+    height: 140px;
+    
+}
+
+.comparisonImg:hover{
+    opacity: 0.6;
+}
+
+
