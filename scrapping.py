@@ -1,11 +1,11 @@
-from bs4 import BeautifulSoupimport requests
+from bs4 import BeautifulSoup
+import requests
 import pandas as pd
 from splinter import Browser
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from flask import Flask, render_template, redirect
 from flask_pymongo import PyMongo
-import scrape_costa
 
 # Create an instance of Flask
 app = Flask(__name__)
